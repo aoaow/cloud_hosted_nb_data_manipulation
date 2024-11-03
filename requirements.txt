@@ -1,0 +1,6 @@
+sklearn
+pandas
+pytest
+nbval
+seaborn
+matplotlib
